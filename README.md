@@ -1,4 +1,6 @@
-## Hi there 👋
+## Nam Le
+
+Email: nam.le94568@gmail.com
 
 <!--
 **NamLeCS/NamLeCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
